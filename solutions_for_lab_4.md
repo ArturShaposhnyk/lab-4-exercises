@@ -18,9 +18,9 @@ just type my first name in editor
 ```bash
 Artur
 ```
-Ctrl + O to save
-Enter
-Ctrl + X to exit the editor
+'Ctrl + O to save'
+'Enter'
+'Ctrl + X to exit the editor'
 ```bash
 cat firstname.txt
 ```
@@ -32,9 +32,9 @@ Artur
 ```bash
 nano lastname.txt 
 ```
-Ctrl + O to save
-Enter
-Ctrl + X to exit the editor
+'Ctrl + O to save'
+'Enter'
+'Ctrl + X to exit the editor'
 ```bash
 echo "Shaposhnyk" > lastname.txt 
 ```
@@ -45,5 +45,6 @@ we get:
 ```bash
 Shaposhnyk
 ```
+
 
 
