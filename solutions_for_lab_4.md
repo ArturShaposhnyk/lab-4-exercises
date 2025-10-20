@@ -14,7 +14,7 @@ ls -lhSr /var/log/
 ```bash
 nano firstname.txt 
 ```
-just type my first name
+just type my first name in editor
 ```bash
 Artur
 ```
@@ -22,3 +22,4 @@ Ctrl+X to exit
 ```bash
 cat firstname.txt
 ```
+
