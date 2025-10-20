@@ -45,6 +45,16 @@ we get:
 ```bash
 Shaposhnyk
 ```
+## Exercise 4
+```bash
+cat firstname.txt lastname.txt
+```
+we get:
+```bash
+Artur
+Shaposhnyk
+```
+
 
 
 
