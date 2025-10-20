@@ -18,8 +18,9 @@ just type my first name in editor
 ```bash
 Artur
 ```
-Ctrl+X to exit
+Ctrl+X, than Y (yes), Enter to exit editor
 ```bash
 cat firstname.txt
 ```
+
 
