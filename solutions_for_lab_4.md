@@ -67,6 +67,28 @@ we get:
 Artur
 Shaposhnyk
 ```
+## Exercise 7
+creating the file that will contain my list
+```
+ls -d ~/*/ > allfolders.txt  
+```
+```
+cat allfolders.txt
+```
+we get (unique output):
+```
+/Users/artur/Applications/
+/Users/artur/Desktop/
+/Users/artur/Documents/
+/Users/artur/Downloads/
+/Users/artur/Library/
+/Users/artur/Movies/
+/Users/artur/Music/
+/Users/artur/Pictures/
+/Users/artur/Public/
+/Users/artur/dev-tools-lesson-first/
+```
+ 
 
 
 
