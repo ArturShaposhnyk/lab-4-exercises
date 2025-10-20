@@ -54,8 +54,19 @@ we get:
 Artur
 Shaposhnyk
 ```
-
-
+## Exercise 6
+using >> we add lastname.txt to the end 
+```
+cat lastname.txt >> firstname.txt
+```
+```
+cat firstname.txt
+```
+we get:
+```
+Artur
+Shaposhnyk
+```
 
 
 
