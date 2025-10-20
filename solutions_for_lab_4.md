@@ -6,3 +6,7 @@
 ls -al
 ```
 ## Exercise 2
+
+```bash
+ls -lhSr /var/log/
+```
