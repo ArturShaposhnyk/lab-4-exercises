@@ -95,6 +95,15 @@ we get (unique output):
  find ~ -type f -empty
 ```
 
+## Exercise 9
+
+``` bash
+ find ~ -type f > ~/my_files.txt
+```
+
+
+
+
 
 
 
