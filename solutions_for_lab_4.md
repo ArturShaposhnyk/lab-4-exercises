@@ -88,7 +88,13 @@ we get (unique output):
 /Users/artur/Public/
 /Users/artur/dev-tools-lesson-first/
 ```
- 
+
+## Exercise 8
+
+``` bash
+ find ~ -type f -empty
+```
+
 
 
 
