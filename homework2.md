@@ -19,8 +19,21 @@
 ```
 or istead of artur (my user name) you can write "$USER"
 
-## Exercise 10
+## Exercise 11
 
 ``` bash
  find ~ -type f -mtime -1
 ```
+
+## Exercise 12
+
+``` bash
+ find ~ -type f -name "*mozilla*"
+```
+
+## Exercise 13
+
+``` bash
+ find /usr -type d -name "bin"
+```
+
