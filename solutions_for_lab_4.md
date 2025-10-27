@@ -101,6 +101,21 @@ we get (unique output):
  find ~ -type f > ~/my_files.txt
 ```
 
+## Exercise 10
+
+``` bash
+ find ~ -user artur
+```
+or istead of artur (my user name) you can write "$USER"
+
+## Exercise 10
+
+``` bash
+ find ~ -type f -mtime -1
+```
+
+
+
 
 
 
