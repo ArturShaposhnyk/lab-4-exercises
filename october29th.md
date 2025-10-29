@@ -108,7 +108,7 @@ cp ~/*.txt ~/cat1/
 ## Exercise 29
 
 ```bash
-cp ~/*.txt ~/cat1/
+cp ~/*.c ~/cat1/cat2/
 ```
 
 ## Exercise 30
